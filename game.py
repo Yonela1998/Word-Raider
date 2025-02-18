@@ -56,4 +56,4 @@ if __name__ == "__main__":
             break
             
             
-            
+    print(f"You have failed to guess {word}. Maybe next time.") 
